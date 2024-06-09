@@ -22,7 +22,14 @@ Restricciones:
     - No utilizar properties
     - Utilizar Type Hints en todos los métodos y variables
 """
+class Carrera:
+    def __init__(self) -> None:
+        pass
+class Materia:
+    def __init__(self) -> None:
+        pass
 
+#metodo magico??
 
 # NO MODIFICAR - INICIO
 # Test parámetro obligatorio

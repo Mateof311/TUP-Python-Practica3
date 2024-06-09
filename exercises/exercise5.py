@@ -31,6 +31,7 @@ Restricciones:
     - No utilizar properties
     - Utilizar Type Hints en todos los métodos y variables
 """
+#???
 
 import abc
 from abc import ABC, abstractmethod
